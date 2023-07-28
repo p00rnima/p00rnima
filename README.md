@@ -5,9 +5,7 @@
 - 📫 How to reach me EMail
 
 <!---
-p00rnima/p00rnima is a ✨ ISTQB certified Test Analyst with experience in manual as well as automation testing on retail website testing. Having skilled in regression, configuration & compatibility and functional testing - Also have gained hands on experience on automation with selenium(Java) on Eclipse IDE, using TestNG, POM and cucumber and data driven (DDT) frameworks.
+p00rnima/p00rnima is a ✨ Software Test Analyst with over 10 years of automation and manual testing experience, involved in all phases of Software Development Life Cycle and Testing Life Cycle. Wide knowledge of testing techniques used in Iterative and Agile projects. Strong knowledge in creating Automation framework from scratch using Java, Selenium Web driver, Maven and Cucumber, TestNG, and parallel execution of tests across multiple browsers and Geolocation based testing in Browserstack. 
 
-Qualified in Bachelor of Science focused in Computer Science from Bharathiar University. An Enthusiastic learner actively working towards personal development ,following ISTQB foundation level certification, presently learning Selenium using Python and focused on completing A4Q selenium tester foundation certification.
-
-Having worked for variety of industries, also have championed excellent written and spoken communication skills and being an excellent team player, multitasking as well as on time management.
+Acquaintance with building automation framework from scratch using cypress - Java script, with Cucumber BDD framework and preparing test scripts integrated with visual testing with percy. Hands-on experience in automating REST APIs using OkHttp client - based on Java. Experience in working with Agile Scrum and BDD with good understanding of Features and user stories.
 --->
